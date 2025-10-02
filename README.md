@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-Check out the live demo: [Demo Link](https://ai-resume-analyzer.streamlit.app/)
+Check out the live demo: [Demo Link](https://application-tracking-system-prasad.streamlit.app/)
 
 
 ## Overview
